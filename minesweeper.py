@@ -230,13 +230,3 @@ keyboard.add_hotkey('q', lambda: root.after(0, bot_toggle))
 btn = Button(root, text='Start', fg='Green', command=bot_toggle, width=10, height=2)
 btn.pack()
 root.mainloop()
-
-#//pretty urgent
-#figure out why the test after pressing auto successly changes red still
-#figure out how to make the toggle actually work
-
-#make UI for an application for this thing, should include things like modifying read width, indentifying tile size
-#optimise logic
-
-#//notes
-#removing show_game_state() makes things very fast
