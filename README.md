@@ -31,6 +31,8 @@ more convenient in a future update. Sorry for the inconvenience.
 Use the arrow keys to adjust your cursor. If it still doesn't work, it might be because your monitor is not 1920x1080. I will fix this in
 a future update. Sorry for any inconveniences. You can also try to change the preset values in `minesweeper.py`.
 
+**Note 3**: As you can see, I do not have the RGB values of the numbers 7 and 8. If anyone can find them, that would be of great help.
+
 
 Use the following global hotkeys:
 
