@@ -26,6 +26,7 @@ An automated Minesweeper bot built with Python for the Google version of Mineswe
 
 **Note 1**: The calibration values do not save through different sessions of the program. Make sure to re-calibrate on each launch. I will make this
 more convenient in a future update. Sorry for the inconvenience.
+
 **Note 2**: If the program doesn't work, try to use manual calibration and move your mouse to the top-leftmost point of the top-leftmost tile.
 Use the arrow keys to adjust your cursor. If it still doesn't work, it might be because your monitor is not 1920x1080. I will fix this in
 a future update. Sorry for any inconveniences. You can also try to change the preset values in `minesweeper.py`.
