@@ -1,2 +1,33 @@
 # Google-Minesweeper-Solver
-Python script to solve the Google version of minesweeper with a near 100% success rate
+
+An automated Minesweeper bot built with Python for the Google version of Minesweeper
+
+# Features
+- Scans screen to automcatically identify difficulty and initialise the board.
+- Utilises patterns, bruteforce, and chunking algorithms to increase success rate.
+
+# Installation
+1. Clone the repository:
+   ```shell
+   git clone https://github.com/losedraw/Google-Minesweeper-Solver.git
+   cd Google-Minesweeper-Solver
+   ```
+2. Install dependencies:
+   ```shell
+   pip install -r requirements.txt
+   ```
+
+# Usage
+1. Search Minesweeper on Google and press play.
+2. Run minesweeper.py.
+3. Select your difficulty or leave it on Auto.
+4. Make sure your browser zoom is on default settings.
+5. Press Start or 'q' to start the solver. Press 'q' again to stop the program.
+
+**Note**: If your monitor is not 
+Use the following global hotkeys:
+
+q: Start / Pause the solver.
+z: Select tile coordinate during manual calibration.
+esc: Cancel calibration mode.
+arrow keys: Adjust the mouse during manual calibration.
