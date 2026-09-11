@@ -4,7 +4,6 @@ import keyboard
 from itertools import combinations
 import random
 from PIL import Image
-import inspect
 import settings
 
 pyautogui.PAUSE = 0.001
@@ -343,9 +342,6 @@ def flag_tile(coord: tuple, game_state):
 
 def open_tile(coord: tuple, game_state):
     pyautogui.leftClick(*coord)
-    caller = inspect.currentframe().f_back.f_code.co_name
-    print(f"open_tile() was called by {caller}")
-    print(f'index: {list(game_state).index(coord)}')
     game_state[coord] = 'o'
 
 def open_remaining_tiles(game_state):
