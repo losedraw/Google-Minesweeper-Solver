@@ -26,7 +26,7 @@ An automated Minesweeper bot built with Python for the Google version of Mineswe
 
 **Note**: If it doesn't work, try to use manual calibration and move your mouse to the top-leftmost point of the top-leftmost tile.
 Use the arrow keys to adjust your cursor. If it still doesn't work, it might be because your monitor is not 1920x1080. I will fix this in
-a future update. Sorry for any inconvenience.
+a future update. Sorry for any inconveniences.
 
 
 Use the following global hotkeys:
