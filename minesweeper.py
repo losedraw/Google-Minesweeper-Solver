@@ -1,6 +1,3 @@
-import time
-import keyboard
-import pyautogui
 import cv2
 from pathlib import Path
 import threading
