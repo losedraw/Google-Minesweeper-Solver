@@ -19,12 +19,16 @@ An automated Minesweeper bot built with Python for the Google version of Mineswe
 
 # Usage
 1. Search Minesweeper on Google and press play.
-2. Run minesweeper.py.
+2. Run `minesweeper.py`.
 3. Select your difficulty or leave it on Auto.
 4. Make sure your browser zoom is on default settings.
 5. Press Start or 'q' to start the solver. Press 'q' again to stop the program.
 
-**Note**: If your monitor is not 
+**Note**: If it doesn't work, try to use manual calibration and move your mouse to the top-leftmost point of the top-leftmost tile.
+Use the arrow keys to adjust your cursor. If it still doesn't work, it might be because your monitor is not 1920x1080. I will fix this in
+a future update. Sorry for any inconvenience.
+
+
 Use the following global hotkeys:
 
 q: Start / Pause the solver.
