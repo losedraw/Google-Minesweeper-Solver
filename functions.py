@@ -24,6 +24,8 @@ color_definitions = {
     (123, 31, 162): 4,
     (255, 143, 0): 5,
     (0, 151, 167): 6,
+    (66, 66, 66): 7,
+    (117, 117, 117): 8
 }
 
 def color_matcher(ref_color: tuple, pixel_color: tuple, tolerance=10):
