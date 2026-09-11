@@ -32,6 +32,9 @@ a future update. Sorry for any inconvenience.
 Use the following global hotkeys:
 
 q: Start / Pause the solver.
+
 z: Select tile coordinate during manual calibration.
+
 esc: Cancel calibration mode.
+
 arrow keys: Adjust the mouse during manual calibration.
