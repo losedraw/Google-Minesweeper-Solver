@@ -1,0 +1,4 @@
+keyboard
+opencv-python
+Pillow
+PyAutoGUI
